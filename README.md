@@ -1,3 +1,3 @@
-# ICS3U-Circuitpython-13
+# ICS3U-Unit6-03-Python
 
-[![GitHub's Super Linter](https://github.com/Joshua-Yeung-2/ICS3U-Circuitpython-13/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Joshua-Yeung-2/ICS3U-Circuitpython-13/actions)
+[![GitHub's Super Linter](https://github.com/Joshua-Yeung-2/ICS3U-Unit6-03-Python/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Joshua-Yeung-2/ICS3U-Unit6-03-Python/actions)
